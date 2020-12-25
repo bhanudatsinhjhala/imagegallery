@@ -65,14 +65,14 @@ html {
   background-image: url("img/panel4.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 48%;
+  background-position: 65%;
 }
 
 .panel5{
   background-image: url("img/p5.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 100%;
+  background-position: 65%;
 }
 /* Flex Children */
   .panel > * {
